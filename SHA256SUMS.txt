@@ -1,0 +1,3 @@
+ddab3683552841a61ef72b6f152748a57dfba80fd833003dfc4c606feede07ff  xiaohongshu-codex.user.js
+d8269a3b7600e319e6ef0b81d6ebc91eaf126f8b1bb634e6ab49c8007df8264b  xiaohongshu-codex-v1.1.0.zip
+5e61689e57eca3375297a20dc596523598ba9dce66a9b302d4bb608a516e02aa  xiaohongshu-codex-source-v1.1.0.zip
